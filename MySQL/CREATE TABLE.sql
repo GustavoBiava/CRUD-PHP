@@ -1,0 +1,8 @@
+CREATE TABLE usuario (
+	id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(120) NOT NULL,
+    login VARCHAR(50) NOT NULL,
+    email VARCHAR(200) NOT NULL,
+    senha VARCHAR(300) NOT NULL,
+    CONSTRAINT uk_login UNIQUE (login)
+) ENGINE = InnoDB;
