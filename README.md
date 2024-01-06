@@ -1,2 +1,2 @@
 # Sistema-funcoes-basicas-BD
-Sistema utilizando HTML,CSS e a linguagem PHP conectado a um banco de dados que executa funções básicas de um banco de dados ( Cadastro, consulta, alteração e exclusão).
+CRUD feito utilizando HTML,CSS e PHP conectado a um banco de dados. Construção do CRUD conduzida na aula de Banco de Dados ||, matéria do Ensino Médio Técnico em Informática da Escola CEDUP - Abílio Paulo.
